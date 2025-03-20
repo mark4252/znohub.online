@@ -1,3 +1,6 @@
+index.html1
+pages2.html1
+styles.css
 <!DOCTYPE html>
 <html lang="en">
 <head>
